@@ -11,4 +11,4 @@ and then
 ./scripts/script.sh data/databases/reference data/myco_sequences.fasta
 ```
 
-The classified genes can be found at [results.csv](results.csv)
+The classified genes can be found at [result.csv](result.csv)
